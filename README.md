@@ -6,3 +6,13 @@ Ubuntu installation reference
 3. Install Nvidia drivers using Additional Third party libs. Refer to http://www.webupd8.org/2016/06/how-to-install-latest-nvidia-drivers-in.html
 4. Install docker.
 5. Install timeshift.
+6. CUDA
+7. CUDNN
+8. PIP3
+9. Tensorflow
+10. Numpy
+11. Sickit
+12. Pandas
+13. Keras
+14. Pytorch
+
